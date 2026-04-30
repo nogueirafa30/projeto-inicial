@@ -5,3 +5,7 @@ body{
 header{
     background-color: blueviolet;
 }
+
+header div img{
+width:300px;
+}
