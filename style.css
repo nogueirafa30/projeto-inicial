@@ -6,6 +6,12 @@ header{
     background-color: rgb(62, 62, 209);
 }
 
-header div img{
-width:300px;
+#img-BMW{
+    width: 300PX;
+}
+
+.paragrafo{
+    text-aling: center;
+    padding: 50px;
+    font-size:20px;
 }
